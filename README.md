@@ -31,6 +31,8 @@ The network topology is designed as follows:
 3. **Access Switches**: Connect to each department, each with an estimated 60 users at HQ and 30 users at the Branch.
 4. **Wireless Network**: Each department has its own wireless network.
 
+![Hotel Management System](https://github.com/user-attachments/assets/dac49d3b-09e7-4ac6-a5fc-7f5501e1b834)
+
 ## 🧮 IP Addressing and Subnetting
 
 - **Base Network**: 192.168.100.0
